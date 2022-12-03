@@ -1,0 +1,15 @@
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\bin\Debug\net6.0\zadanie15.exe
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\bin\Debug\net6.0\zadanie15.deps.json
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\bin\Debug\net6.0\zadanie15.runtimeconfig.json
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\bin\Debug\net6.0\zadanie15.dll
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\bin\Debug\net6.0\zadanie15.pdb
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\zadanie15.csproj.AssemblyReference.cache
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\zadanie15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\zadanie15.AssemblyInfoInputs.cache
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\zadanie15.AssemblyInfo.cs
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\zadanie15.csproj.CoreCompileInputs.cache
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\zadanie15.dll
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\refint\zadanie15.dll
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\zadanie15.pdb
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\zadanie15.genruntimeconfig.cache
+C:\Users\AMM\Desktop\обучение шмидт\dz2\zadanie15\obj\Debug\net6.0\ref\zadanie15.dll
